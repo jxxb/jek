@@ -1,7 +1,8 @@
 @use 'variables' as *;
+$LBP-body: "font-family: 'Poppins', sans-serif";
 
 // mixins to take care of repeated patterns.
-@mixin set-font($size: 1em, $line-height: normal, $font: $fonts-body) {
+@mixin set-font($size: 1em, $line-height: normal, $font: $LBP-body) {
   font-family: $font;
   font-size: $size;
   line-height: $line-height;

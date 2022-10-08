@@ -1,12 +1,12 @@
 h2,
 h3,
 h4 {
-  font-family: "arial narrow", Arial, Verdana, sans-serif;
+  font-family: "font-family: 'Jua', sans-serif";
   margin: 0;
 }
 
 h1 {
-  background: #ea2e49;
+  background: #b0916e;
   color: #fff;
   display: inline-block;
   font-weight: normal;
@@ -39,7 +39,7 @@ h4 {
 }
 
 p {
-  font-family: verdana, arial, sans-serif;
+  font-family: "font-family: 'Poppins', sans-serif";
   font-size: 1em;
   line-height: 1.5em;
   padding: 0.5em 0;
@@ -48,13 +48,13 @@ p {
 
 a {
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
-  color: #333;
+  color: black;
   text-decoration: none;
   transition: border-color 0.2s ease-in-out;
 }
 
 a:hover {
-  border-color: #ea2e49;
+  border-color: #b0916e;
 }
 
 * {
@@ -62,15 +62,15 @@ a:hover {
 }
 
 html {
-  background-color: #daede2;
+  background-color: #e8dcb8;
   padding: 5%;
 }
 
 body {
-  font-family: verdana, arial, sans-serif;
+  font-family: "font-family: 'Poppins', sans-serif";
   font-size: 85%;
-  color: #333;
-  background-color: #77c4d3;
+  color: black;
+  background-color: #9D9849;
   margin: 0;
   padding: 1em;
 }
@@ -101,19 +101,19 @@ section {
 }
 
 .primary {
-  background-color: #77c4d3;
+  background-color: #9D9849;
 }
 
 .accent1 {
-  background-color: #ea2e49;
+  background-color: #b0916e;
 }
 
 .accent2 {
-  background-color: rgba(246, 247, 146, 0.9);
+  background-color: #5a2c1b;
 }
 
 .text-dark {
-  background-color: #333;
+  background-color: black;
 }
 
 .element {
@@ -126,7 +126,7 @@ section {
   font-weight: 300;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #333;
+  color: black;
 }
 
 .uppercase-light {
